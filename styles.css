@@ -8,7 +8,13 @@ body {
 }
 h1 {
     color: #00f;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 4rem;
 }
 p {
     color: #f00;
+    font-size: 1.5rem;
+    margin-left: 15px;
+    margin-top: 25px;
 }
