@@ -1,3 +1,14 @@
-body {background-color: #b0e0e6;}
-h1   {color: #00f;}
-p    {color: #f00;}
+*, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background: #b0e0e6;
+}
+h1 {
+    color: #00f;
+}
+p {
+    color: #f00;
+}
